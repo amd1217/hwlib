@@ -1,0 +1,2 @@
+Qty\tReference\tValue\tDescription\tManufacturer P/N\tManufacturer\tMyir P/N\tFootprint
+{Quantity}\t{Reference}\t{Value}\t{Description}\t{Manufacturer P/N}\t{Manufacturer}\t{Myir P/N}\t{PCB Footprint}
