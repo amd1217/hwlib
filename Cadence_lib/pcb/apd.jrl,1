@@ -1,0 +1,90 @@
+\t (00:00:03) apd 16.6 P004 (v16-6-112G) Windows 32
+\t (00:00:03)     Journal start - Fri Nov 16 18:22:15 2018
+\t (00:00:03)         Host=DESKTOP-L19LV89 User=25046 Pid=45680 CPUs=8
+\t (00:00:03) 
+\t (00:00:04) Opening existing design...
+\d (00:00:04) Database opened: Z:/HW-Libs/Cadence_lib/pcb/BGA64-0P65.dra
+\i (00:00:06) trapsize 50
+\i (00:00:07) trapsize 49
+\i (00:00:07) trapsize 51
+\i (00:00:19) trapsize 44
+\i (00:00:19) trapsize 44
+\i (00:00:21) generaledit 
+\i (00:00:38) draft chamfer 
+\t (00:00:38) Pick first segment to be chamferred ...
+\i (00:00:55) setwindow form.mini
+\i (00:00:55) FORM mini trim_seg1 0.500 
+\i (00:00:59) setwindow pcb
+\i (00:00:59) zoom in 1 
+\i (00:00:59) setwindow pcb
+\i (00:00:59) zoom in -2.994 2.747
+\i (00:00:59) trapsize 22
+\i (00:00:59) zoom in 1 
+\i (00:00:59) setwindow pcb
+\i (00:00:59) zoom in -2.994 2.748
+\i (00:00:59) trapsize 11
+\i (00:00:59) zoom in 1 
+\i (00:00:59) setwindow pcb
+\i (00:00:59) zoom in -2.993 2.748
+\i (00:00:59) trapsize 5
+\i (00:01:00) zoom out 1 
+\i (00:01:00) setwindow pcb
+\i (00:01:00) zoom out -2.999 2.711
+\i (00:01:00) trapsize 11
+\i (00:01:00) zoom out 1 
+\i (00:01:00) setwindow pcb
+\i (00:01:00) zoom out -2.990 2.717
+\i (00:01:00) trapsize 22
+\i (00:01:02) pick grid -3.007 2.752
+\t (00:01:02) last pick:  -2.540  2.540
+\t (00:01:02) Pick second segment ...
+\i (00:01:03) pick grid -2.730 2.989
+\t (00:01:03) last pick:  -2.540  2.540
+\t (00:01:03) Pick first segment to be chamferred ...
+\i (00:01:20) draft fillet 
+\t (00:01:20) Pick first segment to be filletted ...
+\i (00:01:30) zoom out 1 
+\i (00:01:30) setwindow pcb
+\i (00:01:30) zoom out -2.752 2.559
+\i (00:01:30) trapsize 44
+\i (00:02:27) prepopup 2.150 3.156
+\i (00:02:29) done 
+\i (00:02:29) generaledit 
+\i (00:04:25) save 
+\i (00:04:28) fillin yes 
+\t (00:04:31) Symbol 'bga64-0p65.psm' created.
+\i (00:04:32) generaledit 
+\i (00:04:35) move 
+\t (00:04:35) Select element(s) to move.
+\i (00:04:36) pick grid 0.326 0.086
+\t (00:04:36) last pick:  0.000  0.000
+\t (00:04:36) last pick:  0.325  -0.325
+\t (00:04:36) Pick new location for the element(s).
+\i (00:04:38) prepopup 0.624 -0.335
+\i (00:04:39) cancel 
+\i (00:04:40) generaledit 
+\i (00:04:43) zoom out 1 
+\i (00:04:43) setwindow pcb
+\i (00:04:43) zoom out -0.744 -0.159
+\i (00:04:43) trapsize 88
+\i (00:04:44) zoom in 1 
+\i (00:04:44) setwindow pcb
+\i (00:04:44) zoom in 0.453 -0.125
+\i (00:04:44) trapsize 44
+\i (00:04:44) zoom in 1 
+\i (00:04:44) setwindow pcb
+\i (00:04:44) zoom in 0.453 -0.116
+\i (00:04:44) trapsize 22
+\i (00:04:44) zoom in 1 
+\i (00:04:44) setwindow pcb
+\i (00:04:44) zoom in 0.453 -0.116
+\i (00:04:44) trapsize 11
+\i (00:04:46) zoom out 1 
+\i (00:04:46) setwindow pcb
+\i (00:04:46) zoom out -0.001 0.020
+\i (00:04:46) trapsize 22
+\i (00:04:52) exit 
+\e (00:04:52) Do you want to save the changes you made to Z:/HW-Libs/Cadence_lib/pcb/BGA64-0P65.dra?
+\i (00:04:53) fillin yes 
+\t (00:04:56) Symbol 'bga64-0p65.psm' created.
+\t (00:05:03)     Journal end - Fri Nov 16 18:27:15 2018

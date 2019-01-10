@@ -12,7 +12,8 @@
   (GlobalState
     (FileView
       (Path "Design Resources")
-      (Path "Design Resources" ".\ic_power.olb"))
+      (Path "Design Resources" ".\ic_power.olb")
+      (Select "Design Resources" ".\ic_power.olb" "BD71837MWV"))
     (HierarchyView)
     (Doc
       (Type "COrCapturePMDoc")
