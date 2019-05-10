@@ -12,7 +12,8 @@
   (GlobalState
     (FileView
       (Path "Design Resources")
-      (Path "Design Resources" ".\ic_interface.olb"))
+      (Path "Design Resources" ".\ic_interface.olb")
+      (Select "Design Resources" ".\ic_interface.olb" "FT234XD"))
     (HierarchyView)
     (Doc
       (Type "COrCapturePMDoc")

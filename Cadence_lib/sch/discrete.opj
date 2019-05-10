@@ -13,7 +13,8 @@
   (GlobalState
     (FileView
       (Path "Design Resources")
-      (Path "Design Resources" ".\discrete.olb"))
+      (Path "Design Resources" ".\discrete.olb")
+      (Select "Design Resources" ".\discrete.olb" "HQ-5050QRGBC"))
     (HierarchyView)
     (Doc
       (Type "COrCapturePMDoc")

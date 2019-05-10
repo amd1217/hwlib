@@ -13,7 +13,7 @@
     (FileView
       (Path "Design Resources")
       (Path "Design Resources" ".\ic_processor.olb")
-      (Select "Design Resources" ".\ic_processor.olb" "Z70x0_CLG400"))
+      (Select "Design Resources" ".\ic_processor.olb" "STM32F100C4T6B"))
     (HierarchyView)
     (Doc
       (Type "COrCapturePMDoc")

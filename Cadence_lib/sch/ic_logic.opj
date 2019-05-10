@@ -17,6 +17,18 @@
     (Doc
       (Type "COrCapturePMDoc")
       (Frame
-        (Placement "44 2 3 -1 -1 -8 -30 0 200 0 408"))
-      (Tab 0)))
-  (MPSSessionName "Ann"))
+        (Placement "44 2 3 -1 -1 -8 -31 0 200 0 408"))
+      (Tab 0))
+    (Doc
+      (Type "COrPartDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -8 -31 26 1231 26 367")
+        (PackageScroll "0 0")
+        (PackageZoom "1")
+        (PartPackage "Part")
+        (Scroll "1134 215")
+        (Zoom "296"))
+      (Path "D:\MYSHARE\HW-LIB\CADENCE_LIB\SCH\IC_LOGIC.OLB")
+      (Package "CAHCT1G125QDCKRQ1")))
+  (MPSSessionName "Administrator")
+  (ISPCBBASICLICENSE "false"))

@@ -1,135 +1,103 @@
-\t (00:00:24) allegro 16.6-2015 S066 (v16-6-112FJ) Windows 32
-\t (00:00:24)     Journal start - Tue Jan 08 17:37:42 2019
-\t (00:00:24)         Host=DW User=Administrator Pid=5228 CPUs=8
-\t (00:00:24) CmdLine= C:\cadence\Cadence\Cadence_SPB_16.6-2015\tools\pcb\bin\allegro.exe
-\t (00:00:24) 
-\d (00:00:24) Design opened: D:/myshare/hw-lib/Cadence_lib/pcb/box-50pin-1_27-dip-180.dra
-\i (00:00:24) zoom out 1 
-\i (00:00:24) setwindow pcb
-\i (00:00:24) zoom out -12.2100 -3.3025
-\i (00:00:24) trapsize 1841
-\i (00:00:25) zoom out 1 
-\i (00:00:25) setwindow pcb
-\i (00:00:25) zoom out -12.5782 -3.8916
-\i (00:00:25) trapsize 3682
-\i (00:00:25) zoom in 1 
-\i (00:00:25) setwindow pcb
-\i (00:00:25) zoom in 1.3401 -0.8722
-\i (00:00:25) trapsize 1841
-\i (00:00:26) zoom out 1 
-\i (00:00:26) setwindow pcb
-\i (00:00:26) zoom out -3.9253 -1.7927
-\i (00:00:26) trapsize 3682
-\i (00:00:27) zoom in 1 
-\i (00:00:27) setwindow pcb
-\i (00:00:27) zoom in -2.1578 -0.0990
-\i (00:00:27) trapsize 1841
-\i (00:00:27) zoom out 1 
-\i (00:00:27) setwindow pcb
-\i (00:00:27) zoom out -3.0783 -0.5040
-\i (00:00:27) trapsize 3682
-\i (00:00:33) zoom in 1 
-\i (00:00:33) setwindow pcb
-\i (00:00:33) zoom in 1.4876 -0.2094
-\i (00:00:33) trapsize 1841
-\i (00:00:34) zoom out 1 
-\i (00:00:34) setwindow pcb
-\i (00:00:34) zoom out 0.3093 -0.0621
-\i (00:00:34) trapsize 3682
+\t (00:00:34) allegro 16.6-2015 S066 (v16-6-112FJ) Windows 32
+\t (00:00:34)     Journal start - Mon Apr 15 16:11:04 2019
+\t (00:00:34)         Host=DW User=Administrator Pid=15716 CPUs=8
+\t (00:00:34) CmdLine= C:\cadence\Cadence\Cadence_SPB_16.6-2015\tools\pcb\bin\allegro.exe
+\t (00:00:34) 
+\d (00:00:34) Design opened: D:/myshare/hw-lib/Cadence_lib/pcb/usb-usb205fb-c1014200.dra
+\i (00:00:35) zoom in 1 
+\i (00:00:35) setwindow pcb
+\i (00:00:35) zoom in 0.4668 -0.9341
+\i (00:00:35) trapsize 1261
+\i (00:00:40) zoom in 1 
+\i (00:00:40) setwindow pcb
+\i (00:00:40) zoom in -0.5927 -0.8332
+\i (00:00:40) trapsize 631
+\i (00:00:42) zoom out 1 
+\i (00:00:42) setwindow pcb
+\i (00:00:42) zoom out 0.5677 -0.7827
+\i (00:00:42) trapsize 1261
+\i (00:00:43) zoom in 1 
+\i (00:00:43) setwindow pcb
+\i (00:00:43) zoom in 0.9208 -1.0350
+\i (00:00:43) trapsize 631
+\i (00:00:44) open 
+\i (00:00:47) fillin "menu_cancel"
+\i (00:00:48) zoom out 1 
+\i (00:00:48) setwindow pcb
+\i (00:00:48) zoom out 1.7785 -1.0223
+\i (00:00:48) trapsize 1261
+\i (00:01:31) zoom out 1 
+\i (00:01:31) setwindow pcb
+\i (00:01:31) zoom out 1.2740 0.1885
+\i (00:01:31) trapsize 2523
+\i (00:02:13) zoom in 1 
+\i (00:02:13) setwindow pcb
+\i (00:02:13) zoom in 1.8795 -0.1647
+\i (00:02:13) trapsize 1261
 \e (00:02:40) Command not found: xhilite
 \i (00:02:40) xname_flush 
 \e (00:02:40) No command active
 \i (00:02:40) done 
 \e (00:02:40) No command active
-\e (00:03:54) Command not found: xdehilite
-\i (00:03:54) xname_flush 
-\e (00:03:54) No command active
-\i (00:03:54) done 
-\e (00:03:54) No command active
-\e (00:03:54) Command not found: xhilite
-\i (00:03:54) xname_flush 
-\e (00:03:54) No command active
-\i (00:03:54) done 
-\e (00:03:54) No command active
-\e (00:03:54) Command not found: xdehilite
-\i (00:03:54) xname_flush 
-\e (00:03:54) No command active
-\i (00:03:54) done 
-\e (00:03:54) No command active
-\e (00:04:12) Command not found: xhilite
-\i (00:04:12) xname_flush 
-\e (00:04:12) No command active
-\i (00:04:12) done 
-\e (00:04:12) No command active
-\e (00:04:14) Command not found: xdehilite
-\i (00:04:14) xname_flush 
-\e (00:04:14) No command active
-\i (00:04:14) done 
-\e (00:04:14) No command active
-\e (00:04:14) Command not found: xhilite
-\i (00:04:14) xname_flush 
-\e (00:04:14) No command active
-\i (00:04:14) done 
-\e (00:04:14) No command active
-\e (00:04:15) Command not found: xdehilite
-\i (00:04:15) xname_flush 
-\e (00:04:15) No command active
-\i (00:04:15) done 
-\e (00:04:15) No command active
-\e (00:04:16) Command not found: xhilite
-\i (00:04:16) xname_flush 
-\e (00:04:16) No command active
-\i (00:04:16) done 
-\e (00:04:16) No command active
-\e (00:04:18) Command not found: xhilite
-\i (00:04:18) xname_flush 
-\e (00:04:18) No command active
-\i (00:04:18) done 
-\e (00:04:18) No command active
-\e (00:04:19) Command not found: xhilite
-\i (00:04:19) xname_flush 
-\e (00:04:19) No command active
-\i (00:04:19) done 
-\e (00:04:19) No command active
-\e (00:04:22) Command not found: xdehilite
-\i (00:04:22) xname_flush 
-\e (00:04:22) No command active
-\i (00:04:22) done 
-\e (00:04:22) No command active
-\e (00:04:25) Command not found: xhilite
-\i (00:04:25) xname_flush 
-\e (00:04:25) No command active
-\i (00:04:25) done 
-\e (00:04:25) No command active
-\e (00:04:27) Command not found: xdehilite
-\i (00:04:27) xname_flush 
-\e (00:04:27) No command active
-\i (00:04:27) done 
-\e (00:04:27) No command active
-\e (00:22:00) Command not found: xhilite
-\i (00:22:00) xname_flush 
-\e (00:22:00) No command active
-\i (00:22:00) done 
-\e (00:22:00) No command active
-\e (00:22:01) Command not found: xdehilite
-\i (00:22:01) xname_flush 
-\e (00:22:01) No command active
-\i (00:22:01) done 
-\e (00:22:01) No command active
-\e (00:22:02) Command not found: xhilite
-\i (00:22:02) xname_flush 
-\e (00:22:02) No command active
-\i (00:22:02) done 
-\e (00:22:02) No command active
-\e (00:22:13) Command not found: xdehilite
-\i (00:22:13) xname_flush 
-\e (00:22:13) No command active
-\i (00:22:13) done 
-\e (00:22:13) No command active
-\e (00:26:40) Command not found: xhilite
-\i (00:26:40) xname_flush 
-\e (00:26:40) No command active
-\i (00:26:40) done 
-\e (00:26:40) No command active
-\i (00:26:43) exit 
-\t (00:26:44)     Journal end - Tue Jan 08 18:04:02 2019
+\e (00:02:41) Command not found: xdehilite
+\i (00:02:41) xname_flush 
+\e (00:02:41) No command active
+\i (00:02:41) done 
+\e (00:02:41) No command active
+\e (00:02:42) Command not found: xhilite
+\i (00:02:42) xname_flush 
+\e (00:02:42) No command active
+\i (00:02:42) done 
+\e (00:02:42) No command active
+\e (00:02:46) Command not found: xdehilite
+\i (00:02:46) xname_flush 
+\e (00:02:46) No command active
+\i (00:02:46) done 
+\e (00:02:46) No command active
+\e (00:02:47) Command not found: xhilite
+\i (00:02:47) xname_flush 
+\e (00:02:47) No command active
+\i (00:02:47) done 
+\e (00:02:47) No command active
+\e (00:06:17) Command not found: xhilite
+\i (00:06:17) xname_flush 
+\e (00:06:17) No command active
+\i (00:06:17) done 
+\e (00:06:17) No command active
+\e (00:06:17) Command not found: xdehilite
+\i (00:06:17) xname_flush 
+\e (00:06:17) No command active
+\i (00:06:17) done 
+\e (00:06:17) No command active
+\e (00:06:18) Command not found: xhilite
+\i (00:06:18) xname_flush 
+\e (00:06:18) No command active
+\i (00:06:18) done 
+\e (00:06:18) No command active
+\e (00:06:19) Command not found: xdehilite
+\i (00:06:19) xname_flush 
+\e (00:06:19) No command active
+\i (00:06:19) done 
+\e (00:06:19) No command active
+\e (00:06:19) Command not found: xhilite
+\i (00:06:19) xname_flush 
+\e (00:06:19) No command active
+\i (00:06:19) done 
+\e (00:06:19) No command active
+\e (00:06:21) Command not found: xdehilite
+\i (00:06:21) xname_flush 
+\e (00:06:21) No command active
+\i (00:06:21) done 
+\e (00:06:21) No command active
+\e (00:06:25) Command not found: xhilite
+\i (00:06:25) xname_flush 
+\e (00:06:25) No command active
+\i (00:06:25) done 
+\e (00:06:25) No command active
+\e (00:06:26) Command not found: xdehilite
+\i (00:06:26) xname_flush 
+\e (00:06:26) No command active
+\i (00:06:26) done 
+\e (00:06:26) No command active
+\i (00:06:29) exit 
+\t (00:06:29)     Journal end - Mon Apr 15 16:17:00 2019
