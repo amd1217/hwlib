@@ -1,0 +1,2 @@
+The capture.ini file should be in the path
+C:\cadence\Cadence\SPB_Data\cdssetup\OrCAD_Capture\16.6.0  

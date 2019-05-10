@@ -12,7 +12,8 @@
   (GlobalState
     (FileView
       (Path "Design Resources")
-      (Path "Design Resources" ".\module.olb"))
+      (Path "Design Resources" ".\module.olb")
+      (Select "Design Resources" ".\module.olb" "bluetooth_cc254x"))
     (HierarchyView)
     (Doc
       (Type "COrCapturePMDoc")

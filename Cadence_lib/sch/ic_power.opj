@@ -12,12 +12,24 @@
   (GlobalState
     (FileView
       (Path "Design Resources")
-      (Path "Design Resources" ".\ic_power.olb"))
+      (Path "Design Resources" ".\ic_power.olb")
+      (Select "Design Resources" ".\ic_power.olb" "TPS78218DDCT"))
     (HierarchyView)
     (Doc
       (Type "COrCapturePMDoc")
       (Frame
-        (Placement "44 2 3 -1 -1 -8 -30 0 200 0 301"))
-      (Tab 0)))
+        (Placement "44 0 1 -1 -1 -8 -30 0 200 0 301"))
+      (Tab 0))
+    (Doc
+      (Type "COrPartDoc")
+      (Frame
+        (Placement "44 2 3 -1 -1 -8 -30 125 1289 125 571")
+        (PackageScroll "0 0")
+        (PackageZoom "1")
+        (PartPackage "Part")
+        (Scroll "1747 600")
+        (Zoom "417"))
+      (Path "Z:\HW-LIBS\CADENCE_LIB\SCH\IC_POWER.OLB")
+      (Package "TPS78218DDCT")))
   (MPSSessionName "Ann")
   (ISPCBBASICLICENSE "false"))

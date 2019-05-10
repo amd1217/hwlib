@@ -12,7 +12,8 @@
   (GlobalState
     (FileView
       (Path "Design Resources")
-      (Path "Design Resources" ".\ic_memory.olb"))
+      (Path "Design Resources" ".\ic_memory.olb")
+      (Select "Design Resources" ".\ic_memory.olb" "W25Q256JVFIQ"))
     (HierarchyView)
     (Doc
       (Type "COrCapturePMDoc")

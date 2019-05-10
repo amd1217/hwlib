@@ -12,7 +12,8 @@
   (GlobalState
     (FileView
       (Path "Design Resources")
-      (Path "Design Resources" ".\module.olb"))
+      (Path "Design Resources" ".\module.olb")
+      (Select "Design Resources" ".\module.olb" "B0512S-1W"))
     (HierarchyView)
     (Doc
       (Type "COrCapturePMDoc")

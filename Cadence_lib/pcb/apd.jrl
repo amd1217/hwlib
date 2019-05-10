@@ -1,0 +1,64 @@
+\t (00:00:04) apd 16.6 P004 (v16-6-112G) Windows 32
+\t (00:00:04)     Journal start - Fri Nov 30 14:11:31 2018
+\t (00:00:04)         Host=DESKTOP-L19LV89 User=25046 Pid=42080 CPUs=8
+\t (00:00:04) 
+\t (00:00:04) Opening existing design...
+\d (00:00:05) Database opened: Z:/HW-Libs/Cadence_lib/pcb/BGA64-0P65.dra
+\i (00:00:06) trapsize 25
+\i (00:00:24) trapsize 22
+\i (00:00:24) trapsize 22
+\i (00:00:25) zoom out 1 
+\i (00:00:25) setwindow pcb
+\i (00:00:25) zoom out -1.544 0.831
+\i (00:00:25) trapsize 44
+\i (00:00:26) generaledit 
+\i (00:00:27) zoom out 1 
+\i (00:00:27) setwindow pcb
+\i (00:00:27) zoom out 1.938 -0.581
+\i (00:00:27) trapsize 88
+\i (00:00:30) zoom in 1 
+\i (00:00:30) setwindow pcb
+\i (00:00:30) zoom in -1.143 1.086
+\i (00:00:30) trapsize 44
+\i (00:03:35) pick grid tgl 3.979 -1.904
+\t (00:03:35) last pick:  5.080  -2.540
+\i (00:03:46) zoom in 1 
+\i (00:03:46) setwindow pcb
+\i (00:03:46) zoom in 4.873 -2.904
+\i (00:03:46) trapsize 22
+\i (00:03:46) zoom in 1 
+\i (00:03:46) setwindow pcb
+\i (00:03:46) zoom in 4.873 -2.904
+\i (00:03:46) trapsize 11
+\i (00:03:46) zoom in 1 
+\i (00:03:46) setwindow pcb
+\i (00:03:46) zoom in 4.874 -2.904
+\i (00:03:46) trapsize 5
+\i (00:03:46) zoom in 1 
+\i (00:03:46) setwindow pcb
+\i (00:03:46) zoom in 4.875 -2.903
+\i (00:03:46) trapsize 3
+\i (00:03:47) zoom out 1 
+\i (00:03:47) setwindow pcb
+\i (00:03:47) zoom out 4.826 -2.877
+\i (00:03:47) trapsize 5
+\i (00:03:47) zoom out 1 
+\i (00:03:47) setwindow pcb
+\i (00:03:47) zoom out 4.826 -2.877
+\i (00:03:47) trapsize 11
+\i (00:03:47) zoom out 1 
+\i (00:03:47) setwindow pcb
+\i (00:03:47) zoom out 4.823 -2.876
+\i (00:03:47) trapsize 22
+\i (00:03:48) zoom out 1 
+\i (00:03:48) setwindow pcb
+\i (00:03:48) zoom out 4.806 -2.802
+\i (00:03:48) trapsize 44
+\i (00:03:48) zoom out 1 
+\i (00:03:48) setwindow pcb
+\i (00:03:48) zoom out 4.806 -2.801
+\i (00:03:48) trapsize 88
+\i (00:07:07) pick grid 12.705 -3.381
+\t (00:07:07) last pick:  12.700  -2.540
+\i (01:17:46) exit 
+\t (01:17:54)     Journal end - Fri Nov 30 15:29:20 2018
