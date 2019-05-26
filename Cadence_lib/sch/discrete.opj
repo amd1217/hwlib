@@ -14,12 +14,12 @@
     (FileView
       (Path "Design Resources")
       (Path "Design Resources" ".\discrete.olb")
-      (Select "Design Resources" ".\discrete.olb" "HQ-5050QRGBC"))
+      (Select "Design Resources" ".\discrete.olb" "TP"))
     (HierarchyView)
     (Doc
       (Type "COrCapturePMDoc")
       (Frame
-        (Placement "44 2 3 -1 -1 -8 -30 0 200 0 271"))
+        (Placement "44 2 3 -1 -1 -9 -38 0 200 0 271"))
       (Tab 0)))
-  (MPSSessionName "Ann")
+  (MPSSessionName "Administrator")
   (ISPCBBASICLICENSE "false"))

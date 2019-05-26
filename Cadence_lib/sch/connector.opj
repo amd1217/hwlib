@@ -13,13 +13,12 @@
   (GlobalState
     (FileView
       (Path "Design Resources")
-      (Path "Design Resources" ".\connector.olb")
-      (Select "Design Resources" ".\connector.olb" "FPC40_NC"))
+      (Path "Design Resources" ".\connector.olb"))
     (HierarchyView)
     (Doc
       (Type "COrCapturePMDoc")
       (Frame
-        (Placement "44 0 1 -1 -1 -8 -31 12 212 -3 298"))
+        (Placement "44 2 3 -1 -1 -9 -38 12 212 -3 298"))
       (Tab 0)))
   (MPSSessionName "Administrator")
   (ISPCBBASICLICENSE "false"))

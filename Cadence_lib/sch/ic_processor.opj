@@ -13,12 +13,12 @@
     (FileView
       (Path "Design Resources")
       (Path "Design Resources" ".\ic_processor.olb")
-      (Select "Design Resources" ".\ic_processor.olb" "STM32F100C4T6B"))
+      (Select "Design Resources" ".\ic_processor.olb" "STM32MP157AAC3T"))
     (HierarchyView)
     (Doc
       (Type "COrCapturePMDoc")
       (Frame
-        (Placement "44 2 3 -1 -1 -8 -30 0 200 0 297"))
+        (Placement "44 0 1 -1 -1 -9 -38 0 200 0 297"))
       (Tab 0)))
-  (MPSSessionName "Ann")
+  (MPSSessionName "Administrator")
   (ISPCBBASICLICENSE "false"))

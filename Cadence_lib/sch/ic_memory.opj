@@ -18,7 +18,7 @@
     (Doc
       (Type "COrCapturePMDoc")
       (Frame
-        (Placement "44 2 3 -1 -1 -8 -30 0 200 0 301"))
+        (Placement "44 2 3 -1 -1 -9 -38 0 200 0 301"))
       (Tab 0)))
-  (MPSSessionName "Ann")
+  (MPSSessionName "Administrator")
   (ISPCBBASICLICENSE "false"))
